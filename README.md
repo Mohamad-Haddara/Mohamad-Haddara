@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamad-Fayez Haddara
 - 👀 I’m interested in coding, big data, data visualisation, and machine learning
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently Data Scientist and AI Engineer
 - 📫 How to reach me at:<br>
   Email: mohamad.haddara@outlook.com <br>
   LinkedIn: linkedin.com/in/mohamad-haddara-180367204
