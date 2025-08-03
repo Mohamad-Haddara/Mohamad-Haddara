@@ -57,7 +57,6 @@ Developed a deep learning model using Convolutional Neural Networks to classify 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" />
 </p>
 
 
