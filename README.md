@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Mohamad-Fayez Haddara
 
-🎓 Master's in Applied Artificial Intelligence
-🎓 Master 1 in Data Science
-🎓 Bachelor of Engineering in Electrical Engineering  
-💼 AI/ML Engineer | Application Engineer at Education Above All 
-📫 Reach me: [LinkedIn](www.linkedin.com/in/mohamadfayezhaddara) | [Email](mailto:mohammad.haddara@outlook.com)
+🎓 Master's in Applied Artificial Intelligence </br>
+🎓 Master 1 in Data Science</br>
+🎓 Bachelor of Engineering in Electrical Engineering  </br>
+💼 AI/ML Engineer | Application Engineer at Education Above All </br>
+📫 Reach me: [LinkedIn](www.linkedin.com/in/mohamadfayezhaddara) | [Email](mailto:mohammad.haddara@outlook.com)</br>
 
 
 ## 🚀 About Me
