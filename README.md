@@ -46,13 +46,6 @@ Developed a deep learning model using Convolutional Neural Networks to classify 
 - 🏅 Azure AI Fundamentals (AI-900) (in progress)
 - 🏅 Udacity: Machine Learning DevOps Engineer Nanodegree (in progress)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
-  <br/>
-</p>
-
 
 ### 🤝 Let’s Connect!
 Feel free to reach out if you want to collaborate, chat about AI, or build something cool together.
