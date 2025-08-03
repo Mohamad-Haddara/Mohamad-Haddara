@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohamad-Fayez Haddara
+# 👋 Hi, I’m Mohamad Haddara
 
 🎓 Master's in Applied Artificial Intelligence </br>
 🎓 Master 1 in Data Science</br>
