@@ -6,6 +6,9 @@
 💼 AI/ML Engineer | Application Engineer at Education Above All </br>
 📫 Reach me: [LinkedIn](www.linkedin.com/in/mohamadfayezhaddara) | [Email](mailto:mohammad.haddara@outlook.com)</br>
 
+💻 Tech Stack:
+C++ HTML5 JavaScript Python R Azure FastAPI Express.js jQuery NodeJS Next JS MicrosoftSQLServer MySQL Postgres Keras Matplotlib mlflow NumPy Pandas PyTorch scikit-learn Scipy TensorFlow Git GitHub Docker
+
 
 ## 🚀 About Me
 
