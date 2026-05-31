@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Mohamad Haddara
 
 🎓 Master's in Applied Artificial Intelligence </br>
-🎓 Master 1 in Data Science</br>
 🎓 Bachelor of Engineering in Electrical Engineering  </br>
 💼 AI/ML Engineer | Application Engineer at Education Above All </br>
 📫 Reach me: [LinkedIn](www.linkedin.com/in/mohamadfayezhaddara) | [Email](mailto:mohammad.haddara@outlook.com)</br>
